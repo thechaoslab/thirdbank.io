@@ -1,0 +1,8 @@
+title: "Third Bank of the River Lea"
+description: "A site for the Third Bank of the River Lea Workshop at NIME2026"
+url: "https://thechaoslab.thirdbank.io"  # change this
+baseurl: ""  # leave empty for user site
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
