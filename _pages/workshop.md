@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Workshop"
-permalink: /workshop/
+title: "Participate"
+permalink: /participate/
 author_profile: false
 ---
 
